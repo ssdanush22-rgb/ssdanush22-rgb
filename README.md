@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋 I'm Danush
+Hi 👋 I'm S S Danush
 </h1>
 
 <p align="center">
@@ -53,6 +53,8 @@ Hi 👋 I'm Danush
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=ssdanush22-rgb&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/badge/University-Jeppiaar%20Engineering%20College-5B21B6?style=for-the-badge)
 
 ![](https://img.shields.io/github/followers/ssdanush22-rgb?style=for-the-badge&color=7C3AED)
 

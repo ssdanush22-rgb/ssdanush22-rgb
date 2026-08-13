@@ -1,13 +1,15 @@
-# Danush2005
-<h1 align="center">Hi there, I'm S S Danush 👋</h1>
+<h1 align="center">Hi there, I'm Danush 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Danush&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Fullstack%20Development%20%7C%20Android%20Developer%20%7C%20Web%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Student+Learning+to+Code;Exploring+Python,+C+%26+Java;Always+Building+Something+New;Open+to+Collaborations!&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/s-s-danush-b2348b276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/SSDanush189491" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -22,7 +24,7 @@
 - 💻 Exploring **Python, C, and Java** fundamentals
 - 🌱 Always curious to learn new tools and technologies
 - 🤝 Open to connecting, learning together, and collaborating on beginner-friendly projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/s-s-danush-b2348b276/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/s-s-danush-b2348b276/) or [X](https://x.com/SSDanush189491)
 
 ---
 

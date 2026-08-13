@@ -15,7 +15,7 @@ Hi 👋 I'm S S Danush
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Student+Learning+to+Code;Exploring+Python%2C+C+%26+Java;Building+My+First+Projects;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Student+Learning+to+Code;Exploring+Python%2C+C+%26+Java;Building+ERP+Portal+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 ---

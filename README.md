@@ -1,5 +1,5 @@
 # Danush2005
-<h1 align="center">Hi there, I'm Danush 👋</h1>
+<h1 align="center">Hi there, I'm S S Danush 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Student+Learning+to+Code;Exploring+Python,+C+%26+Java;Always+Building+Something+New;Open+to+Collaborations!&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />

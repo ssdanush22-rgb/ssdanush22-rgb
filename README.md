@@ -24,6 +24,8 @@ Hi 👋 I'm S S Danush
 
 ![](https://img.shields.io/badge/Status-Student-7C3AED?style=for-the-badge)
 
+![](https://img.shields.io/badge/University-Jeppiaar%20Engineering%20College-5B21B6?style=for-the-badge)
+
 ![](https://img.shields.io/badge/Focus-Python%20%7C%20C%20%7C%20Java-5B21B6?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Learning-Coming%20Soon-4F46E5?style=for-the-badge)
@@ -53,8 +55,6 @@ Hi 👋 I'm S S Danush
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=ssdanush22-rgb&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/badge/University-Jeppiaar%20Engineering%20College-5B21B6?style=for-the-badge)
 
 ![](https://img.shields.io/github/followers/ssdanush22-rgb?style=for-the-badge&color=7C3AED)
 

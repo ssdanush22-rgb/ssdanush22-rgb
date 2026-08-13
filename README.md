@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm S S Danush 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Student+Learning+to+Code;Exploring+Python,+C+%26+Java;Always+Building+Something+New;Open+to+Collaborations!&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Deepak&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Frontend%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">

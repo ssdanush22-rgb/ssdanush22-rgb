@@ -167,7 +167,7 @@ A work-in-progress ERP Portal Wedsite built with the Godot Engine. This project 
 
 | Category | Details |
 |----------|---------|
-| **Language** | GDScript |
+| **Language** | JavaScript |
 | **Status** | 🚧 In Development |
 | **Performance** | Web development skill |
 | **Security** | Local project with modular architecture |

@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Danush&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20Student&descAlignY=58&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Danush&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=FullSatck%20Developer%20%7C%20Android%20Developer%20%7C%20Frontend%20Developer&descAlignY=58&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">
@@ -22,13 +22,13 @@ Hi 👋 I'm S S Danush
 
 <p align="center">
 
-![](https://img.shields.io/badge/Status-Student-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Final%20Year-Engineering%20Student-7C3AED?style=for-the-badge)
 
 ![](https://img.shields.io/badge/University-Jeppiaar%20Engineering%20College-5B21B6?style=for-the-badge)
 
-![](https://img.shields.io/badge/Focus-Python%20%7C%20C%20%7C%20Java-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/Graduation-2027-4F46E5?style=for-the-badge)
 
-![](https://img.shields.io/badge/Learning-Coming%20Soon-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Chennai,%20India-6D28D9?style=for-the-badge)
 
 </p>
 
@@ -66,17 +66,20 @@ Hi 👋 I'm S S Danush
 
 # About Me
 
-I'm a **student** currently learning to code and building the foundations of my software development journey.
+I'm a **Final Year Engineering Student** passionate about building software that combines functionality, creativity, and excellent user experience.
 
-My interests are centered around **Python, C, and Java**, and I enjoy the process of picking up new concepts, experimenting with small projects, and gradually strengthening my problem-solving skills.
+My interests span **FullStack Development**, **Web Developer**, **UI/UX Design**, and **Android Development**, where I enjoy transforming ideas into interactive digital products.
 
-I believe consistent learning and hands-on practice are the best way to grow as a developer. Every project — no matter how small — is a step toward becoming a better engineer.
+I believe good software is not only technically sound but also intuitive, scalable, and enjoyable to use. Every project I build is an opportunity to improve my engineering mindset while learning modern technologies and development practices.
+
+As an aspiring engineer, I continuously expand my skills through personal projects, design exploration, and experimentation with new tools and frameworks.
 
 ---
 
 ## What I'm Currently Focused On
 
 - Learning Python, C, and Java fundamentals
+-  Learning advanced JavaScript concepts
 - Practicing problem solving and logic building
 - Getting comfortable with Git & GitHub
 - Exploring beginner-friendly projects
@@ -88,7 +91,13 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 
 ✔ Learning Opportunities
 
+✔ FullStack Developer Internship
+
+✔ Frontend Development Internship
+
 ✔ Beginner-Friendly Collaborations
+
+✔ Freelance Opportunities
 
 ✔ Open Source Exploration
 
@@ -104,6 +113,11 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 <img src="https://skillicons.dev/icons?i=py"/>
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=json"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=jsx"/>
 </p>
 
 ---
@@ -111,7 +125,7 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,jsx"/>
 </p>
 
 ---
@@ -121,6 +135,7 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 - Python fundamentals
 - C programming basics
 - Java basics
+- HTML, JS, CSS, JSX
 - Git & GitHub workflow
 - Problem solving / DSA basics
 
@@ -128,7 +143,15 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 
 ## Engineering Philosophy
 
-> *"Every expert was once a beginner. Consistency beats intensity."*
+> *"Great software is built by continuously learning, experimenting, and refining ideas into products that create real value."*
+
+---
+
+## Beyond Coding
+
+- UI Design
+- Video Editing
+- Motion Graphics
 
 ---
 ---
@@ -136,17 +159,24 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 # Featured Projects
 
 <details open>
-<summary><b>🚀 First Project</b></summary>
+<summary><b>🚀 ERP Portal Project</b></summary>
 
 <br>
 
-*Coming Soon — this space is reserved for your first project. Once you build something, tell me its name, tech used, and what it does, and I'll fill this section in.*
+A work-in-progress ERP Portal Wedsite built with the Godot Engine. This project focuses on smooth movement, engaging  UI/UX Design, reusable level design, and clean animation architecture while strengthening my Web development skills.
 
 | Category | Details |
 |----------|---------|
-| **Language** | Coming Soon |
-| **Status** | 🚧 Not Started |
+| **Language** | GDScript |
+| **Status** | 🚧 In Development |
+| **Performance** | Web development skill |
+| **Security** | Local project with modular architecture |
+| **Impact** | Learning game architecture, animation systems, physics |
 | **Repository** | *Coming Soon* |
+
+**Goal**
+
+Build a polished 2D platformer while learning professional game development workflows and scalable project organization.
 
 </details>
 
@@ -161,7 +191,12 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 
 | Category | Details |
 |----------|---------|
-| **Status** | 🚧 Planned |
+| **Frontend** | HTML, CSS |
+| **Backend** | Planned |
+| **Status** | 🚧 Improving |
+| **Performance** | Lightweight static website |
+| **Responsive** | Mobile Friendly |
+| **Impact** | Personal branding and frontend practice |
 | **Repository** | *Coming Soon* |
 
 </details>
@@ -172,7 +207,7 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 
 | Quarter | Focus |
 |----------|-------|
-| Now | Learn Python, C, Java fundamentals |
+| Now | Learn Python, C, Java fundamentals, HTML, CSS, JS, JSX |
 | Next | Build first small projects |
 | Later | Learn Git/GitHub workflows deeply |
 | Future | Explore web development or data basics |
@@ -195,6 +230,10 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 `Java`
 `Git`
 `GitHub`
+`C++`
+`HTML`
+`Java Script`
+`Data Science`
 
 ---
 
@@ -205,7 +244,9 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 | Recognition | Details |
 |-------------|---------|
 | 🚀 Self-Learning Journey | Software Development |
+| 🎨 UI/UX Competition | Build in 60 Minutes |
 | 📚 Coming Soon | *Add your achievements here* |
+| 🎮 Personal Projects | ERP Web Portal Development |
 
 </div>
 
@@ -213,7 +254,31 @@ I believe consistent learning and hands-on practice are the best way to grow as 
 
 # Certifications
 
-*Coming Soon — list any certifications or courses here as you complete them.*
+## Code Gallata
+
+![](https://img.shields.io/badge/Web_Designing-Completed-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Android_Development-Completed-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Scala-Completed-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Code_Gallata-Certified-6D28D9?style=for-the-badge)
+
+Issued by **Code GallatA **
+
+---
+
+## Workshops
+
+![](https://img.shields.io/badge/Mindtrack-AI_in_Cybersecurity-5B21B6?style=for-the-badge)
+
+**Chennai Institute of Technology**
+
+---
+
+## UI / UX
+
+![](https://img.shields.io/badge/UI/UX-Build_in_60_Minutes-7C3AED?style=for-the-badge)
 
 ---
 
@@ -290,17 +355,26 @@ learning:
   - C programming
   - Java basics
   - Git & GitHub workflow
+  - HMTL, CSS, JS, JSX
+  - Unreal Engine (Future)
 
 building:
-  - First personal projects
+  - Persoio Wnal Portfolebsite
+  - ERP portal Website
   - Coding habits & consistency
 
 exploring:
   - Problem solving / DSA
   - Web development basics
+  - Android development
+  - UI/UX Disignning
 
 open_to:
   - Learning opportunities
+  - Frontend Development
+  - Web Development
+  - Android Development
+  - IOS Development
   - Beginner collaborations
   - Study groups
 ```
@@ -341,7 +415,7 @@ open_to:
 
 <p align="center">
 
-> **"Small consistent steps lead to big progress."**
+> **"Building software is not just about writing code—it's about solving problems, creating experiences, and continuously improving."**
 
 </p>
 

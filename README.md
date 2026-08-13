@@ -264,7 +264,7 @@ Build a polished 2D platformer while learning professional game development work
 
 ![](https://img.shields.io/badge/Code_Gallata-Certified-6D28D9?style=for-the-badge)
 
-Issued by **Code GallatA **
+Issued by **Code Gallata **
 
 ---
 
